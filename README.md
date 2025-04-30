@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<samp>
 <h1 align="center">✨ Hi there, It's Beam ✨</h1>
 
 <p align="center">
-🧙‍♀️ A computer engineering student who loves casting spells 🍄<br>
+🧙‍♀️ a computer engineering student who loves casting spells 🍄<br>
 </p>
 
 <p align="center">
@@ -28,3 +28,4 @@ Here are some ideas to get you started:
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brnn043&layout=compact&theme=tokyonight" />
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=Brnn043&theme=tokyonight" />
 </p>
+</samp>
