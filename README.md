@@ -9,7 +9,7 @@
 🔗 Visit my spellbook: <a href="https://spellbook-of-beam.vercel.app/">spellbook-of-beam.vercel.app</a>
 </p>
 
-<p align="center" style="display: inline-block">
+<p align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brnn043&layout=compact&theme=tokyonight" />
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=Brnn043&theme=tokyonight" />
 </p>
