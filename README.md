@@ -1,18 +1,3 @@
-
-<!--
-**Brnn043/Brnn043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <samp>
 <h1 align="center">✨ Hi there, It's Beam ✨</h1>
 
@@ -28,4 +13,24 @@ Here are some ideas to get you started:
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brnn043&layout=compact&theme=tokyonight" />
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=Brnn043&theme=tokyonight" />
 </p>
+
+<h2 align="center">
+  Web Dev Projects  
+</h2>
+<div align="center">
+  <ul align="left"><a href="https://github.com/Brnn043/spellbook-of-beam">Spellbook of Beam</a>: a 3D portfolio website made with React Three Fiber</ul>
+  <ul align="left"><a href="https://github.com/LazyRipple/TinkerBread">Tinkerbread</a>: a 3D interactive Christmas-themed website made with React Three Fiber</ul>
+  <ul align="left"><a href="https://github.com/esc-chula/larngear24-passport-frontend">Larngear Passport</a>: a Larngear24's passport website made with Next.js</ul>
+  <ul align="left"><a href="https://github.com/esc-chula/gem-of-your-soul">Gem of Your Soul</a>: an interactive quiz website made with the Astro framework</ul>
+  <ul align="left"><a href="https://github.com/Brnn043/AstroMood">AstroMood</a>: a mood tracker website made with Next.js</ul>
+  <ul align="left"><a href="https://github.com/Brnn043/CPmon">CP-Mon</a>: an online multiplayer game website made with vanilla JavaScript</ul>
+</div>
+
+<h2 align="center">
+  Game Dev Projects
+</h2>
+<div>
+  <ul align="left"><a href="https://github.com/Brnn043/Witchs-Garden">Witch's Garden</a>: an action RPG game made with vanilla Java</ul>
+  <ul align="left"><a href="https://github.com/Brnn043/witchs-bakery-web">Witch's Bakery</a>: a cooking game made with the Unity engine using C#</ul>
+</div>
 </samp>
